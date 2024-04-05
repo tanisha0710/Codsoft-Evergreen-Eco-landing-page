@@ -1,0 +1,23 @@
+*{
+  background-color:lavender;
+}
+h2{
+  text-align: center;
+  margin-top: 10px;
+}
+h1{
+  text-align: center;
+  margin-top: 20px;
+}
+p{
+  text-align: center;
+  margin-top: 30px;
+  font-size: large;
+}
+a{
+  background:white;
+  color: blue;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+}
